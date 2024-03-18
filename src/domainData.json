@@ -1,0 +1,17 @@
+{
+    "domains": [
+      {
+        "name": "example.com",
+        "records": ["A", "CNAME"]
+      },
+      {
+        "name": "test.com",
+        "records": ["MX", "TXT"]
+      },
+      {
+        "name": "demo.com",
+        "records": ["A", "AAAA"]
+      }
+    ]
+  }
+  
